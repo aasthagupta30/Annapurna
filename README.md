@@ -1,2 +1,3 @@
-# Annapurna
-ACM-W Hackathon 2020
+# annapurna
+
+App for ACM-W Hackathon 2020
